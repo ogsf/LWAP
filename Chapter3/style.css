@@ -28,3 +28,23 @@ a:visited  {
 a:hover  {
 	text-decoration: underline;
 }
+
+ol  {
+	border: 5px solid darksalmon;
+	border-radius: 10px;
+}
+
+.content  li  {
+	color: brown;   /* Only list items descendant to div class 'content' are brown */
+}
+
+li:first-child  {
+	background: yellow;
+}
+
+li:nth-child(3)  {
+	background: green;
+}
+
+
+
