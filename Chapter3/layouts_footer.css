@@ -1,0 +1,18 @@
+*  {
+	margin: 0px;
+	padding: 0px;
+}
+
+nav  {
+	float: left;
+	background: darkgray;
+}
+
+main  {
+	background: lightgray;
+}
+
+footer  {
+	background: gray;
+	clear: both;  /* or we can just use 'clear: left' in this case */
+}
