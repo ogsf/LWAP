@@ -1,7 +1,8 @@
+/* Here we are styling the body */
 body  {
-	background: lightcyan;
-	width: 800px;
-	margin: auto;
+	background: lightcyan;  /* Set the background to a light bluish color */
+	width: 800px;           /* Set the body width to 800 pixels */
+	margin: auto;           /* Set the margin to 'auto' */
 }
 
 h1  {
