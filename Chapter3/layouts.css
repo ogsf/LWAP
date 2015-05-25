@@ -1,0 +1,26 @@
+main  {
+	width: 500px;
+	margin: auto;
+	background: gray;
+	overflow: auto;
+}
+
+nav  {
+	/* uncomment the next line to get a border around the nav */
+	/* border:  3px solid black; */
+	width: 100px;
+	float: right;
+}
+
+/* Remove defaults on the p elements inside the nav */
+nav p  {
+	margin: 0;
+	padding: 0;
+}
+
+p.content  {
+	margin: 0;  /* zero out the default margin on p */
+	padding: 10px;  /* push the text away from the edge of the elements */
+	float: left;
+	width: 380px;  /* Compendate for the padding; 400 - 2*10 = 380 */
+}
