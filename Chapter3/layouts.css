@@ -22,5 +22,6 @@ p.content  {
 	margin: 0;  /* zero out the default margin on p */
 	padding: 10px;  /* push the text away from the edge of the elements */
 	float: left;
-	width: 380px;  /* Compendate for the padding; 400 - 2*10 = 380 */
+	width: 380px;  /* Compensate for the padding; 400 - 2*10 = 380 */
 }
+
